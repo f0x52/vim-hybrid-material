@@ -85,7 +85,8 @@ let g:colors_name = "hybrid_reverse"
 
 let s:palette = {'gui' : {} , 'cterm' : {}}
 
-let s:gui_background = "#1d1f21"
+"let s:gui_background = "#1d1f21"
+let s:gui_background = "#ff0000"
 let s:gui_selection  = "#373b41"
 let s:gui_line       = "#282a2e"
 let s:gui_comment    = "#707880"
@@ -142,7 +143,7 @@ else
   let s:cterm_delbg      = "167"
 endif
 
-let s:palette.cterm.background = { 'dark' : "234"              , 'light' : "254" }
+let s:palette.cterm.background = { 'dark' : "200"              , 'light' : "254" }
 let s:palette.cterm.foreground = { 'dark' : s:cterm_foreground , 'light' : "16"  }
 let s:palette.cterm.window     = { 'dark' : "236"              , 'light' : "247" }
 let s:palette.cterm.selection  = { 'dark' : s:cterm_selection  , 'light' : "250" }

@@ -1,9 +1,9 @@
 " File:       hybrid_reverse.vim
-" Maintainer: Kristijan Husak (kristijanhusak)
-" URL:        https://github.com/kristijanhusak/vim-hybrid-material
-" BASED ON:   https://github.com/w0ng/vim-hybrid
-" Modified:   16 Apr 2016
-" License:    MIT
+" Maintainer: f0x
+" URL:        https://github.com/f0x/vim-hybrid-material
+" BASED ON:   https://github.com/kristijanhusak/vim-hybrid-material
+" Modified:   08 Nov 2017
+" License:    GPLv3
 
 " Description:"{{{
 " ----------------------------------------------------------------------------
